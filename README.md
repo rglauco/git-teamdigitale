@@ -1,5 +1,5 @@
-# git-teamdigitale
-Comandi di base, valutazione del progetto
+# Team Digitale Community Lab - git
+**Comandi di base, valutazione del progetto**
 * clone
   * significato: copia localmente l’intera struttura del progetto 
   * scopo: viene utilizzato principalmente per puntare a un repository esistente e creare un clone o una copia di quel repository in una nuova directory, in un'altra posizione
@@ -24,7 +24,7 @@ Comandi di base, valutazione del progetto
 * apertura PR che referenzia la issue (che chiude la issue automaticamente al merge)
 * richiesta revisione agli autori
 
-Comandi per contributori
+**Comandi per contributori:**
 * status
   * significato: mostra le differenze tra il file di indice e il commit HEAD
   * scopo: serve per tenere traccia dei files modificati, del ramo attuale e di altre informazioni riguardo il cosiddetto index
