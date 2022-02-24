@@ -9,7 +9,7 @@
   * significato: sincronizza il repository locale con quello remoto
   * scopo:  incorpora i cambiamenti di un repository nel ramo locale corrente (git fetch + git [merge|rebase] a seconda della configurazione corrente)
   * esempio: 
-    * ```git pull https://github.com/consiglionazionaledellericerche/cool-jconon```
+    * ```git pull https://github.com/consiglionazionaledellericerche/cool-jconon-template```
 * log
   * significato: strumento per monitorare la timeline del progetto
   * scopo: comando di ampia portata mostra lo storico delle modifiche
