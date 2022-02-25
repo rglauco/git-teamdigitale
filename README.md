@@ -50,7 +50,8 @@
 * branch
   * significato: 
   * scopo: permette la gestione dei rami 
-  * esempio: git branch dev
+  * esempio: 
+    * ```git branch dev```
 
 * stash
   * significato: sposta le modifiche non ancora salvate in una directory di lavoro temporanea e le riapplica dopo un’azione
