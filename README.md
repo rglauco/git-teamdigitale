@@ -1,4 +1,4 @@
-# Team Digitale Community Lab - git
+# Italia Community Lab - git
 **Comandi di base, valutazione del progetto**
 * clone
   * significato: copia localmente l’intera struttura del progetto 
